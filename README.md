@@ -27,7 +27,7 @@ FuelFlow is a user-friendly crypto fund transfer feature that eliminates the nee
 ## Technology Stack
 - **Blockchain**: Fuel
 - **Programming Languages**: Python, Solidity
-- **Frontend**: React Native (or any preferred framework)
+- **Frontend**: Flutter (or any preferred framework)
 - **QR Code Generation**: [qrcode library](https://pypi.org/project/qrcode/) (or similar)
 
 ## Future Goals
